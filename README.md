@@ -1,1 +1,0 @@
-# regresion-lineal
